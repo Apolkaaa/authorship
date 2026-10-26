@@ -1,0 +1,83 @@
+[
+  {
+    "file": "assets/images/references-arena.webp",
+    "title": "Are.na: подборка референсов",
+    "author": "Скриншот предоставлен пользователем",
+    "source": "Материалы пользователя",
+    "page": null,
+    "license": "Предоставлено пользователем для включения в проект; права на элементы интерфейса и показанные работы сохраняются у правообладателей.",
+    "alt": "Скриншот подборки графического дизайна в Are.na",
+    "processing": "PNG converted to WebP; original composition preserved."
+  },
+  {
+    "file": "assets/images/references-miro.webp",
+    "title": "Miro: карта мыслей",
+    "author": "Скриншот предоставлен пользователем",
+    "source": "Материалы пользователя",
+    "page": null,
+    "license": "Предоставлено пользователем для включения в проект; права на элементы интерфейса и показанные работы сохраняются у правообладателей.",
+    "alt": "Скриншот карты мыслей в Miro со связями и заметками",
+    "processing": "PNG converted to WebP; original composition preserved."
+  },
+  {
+    "file": "assets/images/references-figma.webp",
+    "title": "Figma: исследовательская доска",
+    "author": "Скриншот предоставлен пользователем",
+    "source": "Материалы пользователя",
+    "page": null,
+    "license": "Предоставлено пользователем для включения в проект; права на элементы интерфейса и показанные работы сохраняются у правообладателей.",
+    "alt": "Скриншот исследовательской доски в Figma с материалами и структурой проекта",
+    "processing": "PNG converted to WebP; original composition preserved."
+  },
+  {
+    "title": "Laboratory notebook, pages 40–41, March 10, 1876",
+    "author": "Alexander Graham Bell",
+    "source": "Library of Congress, Alexander Graham Bell Family Papers / Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:AGBell_Notebook.jpg",
+    "download": "https://upload.wikimedia.org/wikipedia/commons/0/0c/AGBell_Notebook.jpg",
+    "license": "Public domain (PD-US-unpublished; author died in 1922)",
+    "license_url": "https://commons.wikimedia.org/wiki/File:AGBell_Notebook.jpg#Licensing",
+    "alt": "Разворот лабораторной записной книжки Александра Белла: схема телефона и рукописное описание опыта от 10 марта 1876 года",
+    "file": "assets/images/bell.webp",
+    "processing": "Resized and converted to WebP; full composition preserved."
+  },
+  {
+    "file": "assets/images/assa-borodino.webp",
+    "title": "«Бородино»",
+    "author": "Асса Новикова",
+    "source": "Блог «От руки»",
+    "page": "https://otruki.wordpress.com/2013/01/29/%d0%b1%d0%be%d1%80%d0%be%d0%b4%d0%b8%d0%bd%d0%be-%d0%b0%d1%81%d1%81%d0%b0-%d0%bd%d0%be%d0%b2%d0%b8%d0%ba%d0%be%d0%b2%d0%b0/",
+    "download": "https://otruki.wordpress.com/wp-content/uploads/2013/01/scan-130123-0003.jpg",
+    "license": "Условия повторного использования не указаны; права сохраняются у автора.",
+    "alt": "Рукописный черновик стихотворения «Бородино», Асса Новикова: строки с исправлениями и зачёркиваниями",
+    "width": 600,
+    "height": 827,
+    "processing": "Converted to WebP; full scan preserved."
+  },
+  {
+    "file": "assets/images/pashchenko-questions.webp",
+    "title": "«Вопросы»",
+    "author": "Олег Пащенко",
+    "source": "Блог «От руки»",
+    "page": "https://otruki.wordpress.com/2012/10/26/%d0%b2%d0%be%d0%bf%d1%80%d0%be%d1%81%d1%8b-%d0%be%d0%bb%d0%b5%d0%b3-%d0%bf%d0%b0%d1%89%d0%b5%d0%bd%d0%ba%d0%be/",
+    "download": "https://otruki.wordpress.com/wp-content/uploads/2012/10/voporosi.jpg",
+    "license": "Условия повторного использования не указаны; права сохраняются у автора.",
+    "alt": "Рукописный черновик стихотворения «Вопросы», Олег Пащенко: строки с исправлениями и зачёркиваниями",
+    "width": 800,
+    "height": 638,
+    "processing": "Converted to WebP; full scan preserved."
+  },
+  {
+    "file": "assets/images/simonov-church.webp",
+    "title": "«Не отказаться построить церковь»",
+    "author": "Глеб Симонов",
+    "source": "Блог «От руки»",
+    "page": "https://otruki.wordpress.com/2012/10/25/%d0%bd%d0%b5-%d0%be%d1%82%d0%ba%d0%b0%d0%b7%d0%b0%d1%82%d1%8c%d1%81%d1%8f-%d0%bf%d0%be%d1%81%d1%82%d1%80%d0%be%d0%b8%d1%82%d1%8c-%d1%86%d0%b5%d1%80%d0%ba%d0%be%d0%b2%d1%8c-%d0%b3%d0%bb/",
+    "download": "https://otruki.wordpress.com/wp-content/uploads/2012/10/img727-500.jpg",
+    "license": "Условия повторного использования не указаны; права сохраняются у автора.",
+    "alt": "Рукописный черновик стихотворения «Не отказаться построить церковь», Глеб Симонов: строки с исправлениями и зачёркиваниями",
+    "width": 500,
+    "height": 595,
+    "processing": "Converted to WebP; full scan preserved."
+  }
+]
